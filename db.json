@@ -1,21 +1,8 @@
 {
-  "tasks": [
-    {
-      "id": "6",
-      "title": "do you work",
-      "done": true,
-      "collectionID": 2
-    },
-    {
-      "id": "7",
-      "title": "kglkdfgosdfg",
-      "done": false,
-      "collectionID": 2
-    }
-  ],
+  "tasks": [],
   "collections": [
     {
-      "id": "2",
+      "id": "1",
       "title": "new collection"
     }
   ]
