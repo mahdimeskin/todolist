@@ -14,5 +14,5 @@ A simple task management app where you can:
    cd todolist
 2. **Start the json server**
    ```bash
-   npx json-server ../db.json
-3. **Open index.html in your browser**
+   npx json-server db.json
+3. **Open index.html in your browser(live server recommended)**
